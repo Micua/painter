@@ -1,0 +1,27 @@
+{
+  "name": "painter",
+  "version": "1.0.0",
+  "description": "Cross platform painter by Electron & Method-Draw",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micua/painter.git"
+  },
+  "keywords": [
+    "painter",
+    "electron",
+    "draw"
+  ],
+  "author": "iceStone <ice@wedn.net> (http://www.wedn.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micua/painter/issues"
+  },
+  "homepage": "https://github.com/Micua/painter#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.10"
+  }
+}
